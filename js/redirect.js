@@ -1,2 +1,2 @@
 
-  location.href = "https://www.cbtis.tk";
+  location.href = "http://www.cbtis.tk";
